@@ -1,2 +1,2 @@
 # Resume
-resume and corresponding latex code
+my resume written in latex with a standard template
